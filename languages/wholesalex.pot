@@ -1,0 +1,4690 @@
+# Copyright (C) 2024 Wholesale Team
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: WholesaleX 1.3.2\n"
+"Report-Msgid-Bugs-To: https://wpxpo.com/contact/\n"
+"POT-Creation-Date: 2024-02-27 09:04:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: \n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/menu/class-wholesalex-category.php:454
+msgid "2"
+msgstr ""
+
+#: includes/menu/class-wholesalex-category.php:461
+#: includes/menu/class-wholesalex-category.php:479
+msgid "10"
+msgstr ""
+
+#: addons/recaptcha/class-recaptcha.php:101
+msgid "The secret parameter is missing."
+msgstr ""
+
+#: addons/recaptcha/class-recaptcha.php:103
+msgid "The secret parameter is invalid or malformed."
+msgstr ""
+
+#: addons/recaptcha/class-recaptcha.php:105
+msgid "The response parameter is missing."
+msgstr ""
+
+#: addons/recaptcha/class-recaptcha.php:107
+msgid "The response parameter is invalid or malformed."
+msgstr ""
+
+#: addons/recaptcha/class-recaptcha.php:109
+msgid "The request is invalid or malformed."
+msgstr ""
+
+#: addons/recaptcha/class-recaptcha.php:111
+msgid ""
+"The response is no longer valid: either is too old or has been used "
+"previously."
+msgstr ""
+
+#: addons/recaptcha/class-recaptcha.php:113
+msgid "Unknown!"
+msgstr ""
+
+#: addons/recaptcha/class-recaptcha.php:132
+#: addons/recaptcha/class-recaptcha.php:162
+#: addons/recaptcha/class-recaptcha.php:185
+msgid "reCAPTCHA v3:"
+msgstr ""
+
+#: addons/recaptcha/class-recaptcha.php:247
+msgid "<strong>reCAPTCHA v3:</strong> Error!"
+msgstr ""
+
+#: addons/recaptcha/init.php:23 includes/menu/class-wholesalex-settings.php:633
+#: includes/menu/class-wholesalex-setup-wizard.php:181
+#: includes/options/Addons.php:340
+msgid "reCAPTCHA"
+msgstr ""
+
+#: addons/recaptcha/init.php:24
+msgid ""
+"Protect your website from suspicious login attempts with an added security "
+"layer using Google reCAPTCHA v3 for extended safety measures."
+msgstr ""
+
+#: includes/Functions.php:750 includes/class-wholesalex-shortcodes.php:132
+msgid "Select Registration Roles"
+msgstr ""
+
+#: includes/Functions.php:1471
+msgid "Get WholesaleX Pro"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WholesaleX"
+msgstr ""
+
+#: includes/Functions.php:2011
+msgid "Username or email address"
+msgstr ""
+
+#: includes/Functions.php:2031
+msgid "Password"
+msgstr ""
+
+#: includes/Functions.php:2059
+msgid "Remember me"
+msgstr ""
+
+#: includes/class-wholesalex-activator.php:59
+#: includes/menu/class-wholesalex-registration.php:607
+#: includes/menu/class-wholesalex-registration.php:1308
+#: includes/menu/class-wholesalex-settings.php:444
+msgid ""
+"Thank you for registering. Your account will be reviewed by us & approve "
+"manually. Please wait to be approved."
+msgstr ""
+
+#: includes/class-wholesalex-activator.php:62
+#: includes/menu/class-wholesalex-settings.php:452
+msgid "Sorry You Are Not Allowed To View This Form"
+msgstr ""
+
+#: includes/class-wholesalex-activator.php:64
+#: includes/class-wholesalex-activator.php:65
+#: includes/menu/class-wholesalex-dynamic-rules.php:2535
+#: includes/menu/class-wholesalex-dynamic-rules.php:2537
+#: includes/menu/class-wholesalex-settings.php:462
+#: includes/menu/class-wholesalex-settings.php:464
+#: includes/menu/class-wholesalex-settings.php:469
+#: includes/menu/class-wholesalex-settings.php:471
+msgid "Wholesale Price:"
+msgstr ""
+
+#: includes/class-wholesalex-activator.php:107
+msgid "B2C Users"
+msgstr ""
+
+#: includes/class-wholesalex-activator.php:112
+msgid "Guest Users"
+msgstr ""
+
+#: includes/class-wholesalex-initialization.php:193
+msgid "You cannot register while you are logged in."
+msgstr ""
+
+#: includes/class-wholesalex-initialization.php:194
+msgid "is required"
+msgstr ""
+
+#: includes/class-wholesalex-initialization.php:195
+msgid "Register"
+msgstr ""
+
+#: includes/class-wholesalex-initialization.php:217
+msgid " Your account is already confirmed!. "
+msgstr ""
+
+#: includes/class-wholesalex-initialization.php:222
+msgid "<strong>Success:</strong> Your account is successfully confirmed. "
+msgstr ""
+
+#: includes/class-wholesalex-menu.php:36
+msgid "Go Pro"
+msgstr ""
+
+#: includes/class-wholesalex-menu.php:39
+#: includes/menu/class-wholesalex-settings.php:124
+#: includes/menu/class-wholesalex-settings.php:127
+#: includes/menu/class-wholesalex-settings.php:156
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wholesalex-menu.php:52
+msgid "Docs"
+msgstr ""
+
+#: includes/class-wholesalex-menu.php:53
+msgid "Support"
+msgstr ""
+
+#: includes/class-wholesalex-notice.php:421
+msgid "Dismiss"
+msgstr ""
+
+#: includes/class-wholesalex-notice.php:455
+#: includes/class-wholesalex-notice.php:478
+#. translators: %s: Plugin Name
+msgid "Welcome to %s."
+msgstr ""
+
+#: includes/class-wholesalex-notice.php:456
+#: includes/class-wholesalex-notice.php:479
+#. translators: %s: Plugin Name
+msgid ""
+"WooCommerce %s is a WooCommerce plugin. To use this plugins you have to "
+"install and activate WooCommerce."
+msgstr ""
+
+#: includes/class-wholesalex-notice.php:457
+msgid "Install WooCommerce"
+msgstr ""
+
+#: includes/class-wholesalex-notice.php:480
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: includes/class-wholesalex-notice.php:741
+msgid "Error!"
+msgstr ""
+
+#: includes/class-wholesalex-notice.php:744
+#. translators: %s: API Name and Version
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:160
+#: includes/class-wholesalex-product.php:177
+msgid "On backorder"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:162
+#: includes/class-wholesalex-product.php:179
+msgid "In stock"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:164
+#: includes/class-wholesalex-product.php:181
+msgid "Out of stock"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:219
+#: includes/class-wholesalex-product.php:357
+msgid "Separate Stock For WholesaleX B2B User?"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:220
+#: includes/class-wholesalex-product.php:358
+#: includes/menu/class-wholesalex-dynamic-rules.php:1119
+#: includes/menu/class-wholesalex-profile.php:913
+#: includes/menu/class-wholesalex-profile.php:931
+#: includes/menu/class-wholesalex-profile.php:1009
+msgid "Yes"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:220
+#: includes/class-wholesalex-product.php:358
+#: includes/menu/class-wholesalex-dynamic-rules.php:1120
+#: includes/menu/class-wholesalex-profile.php:914
+#: includes/menu/class-wholesalex-profile.php:932
+#: includes/menu/class-wholesalex-profile.php:1010
+msgid "No"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:223
+#: includes/class-wholesalex-product.php:361
+msgid ""
+"By selecting Yes, Separate Stock Will be managed for B2B Users. If Select "
+"No, then same stock will be used for all."
+msgstr ""
+
+#: includes/class-wholesalex-product.php:231
+msgid "WholesaleX B2B Stock Quantity"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:233
+msgid ""
+"Stock quantity. If this is a variable product this value will be used to "
+"control stock for all variations, unless you define stock at variation "
+"level."
+msgstr ""
+
+#: includes/class-wholesalex-product.php:247
+#: includes/class-wholesalex-product.php:389
+msgid "Allow WholesaleX B2B Users backorders?"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:250
+#: includes/class-wholesalex-product.php:392
+msgid ""
+"If managing stock, this controls whether or not backorders are allowed. If "
+"enabled, stock quantity can go below 0."
+msgstr ""
+
+#: includes/class-wholesalex-product.php:277
+msgid "WholesaleX B2B Stock status"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:280
+msgid ""
+"Controls whether or not the product is listed as \"in stock\" or \"out of "
+"stock\" on the frontend for wholesalex b2b users"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:323
+#: includes/class-wholesalex-product.php:419
+msgid ""
+"The stock has not been updated because the value has changed since editing. "
+"Product %1$d has %2$d units in stock."
+msgstr ""
+
+#: includes/class-wholesalex-product.php:370
+msgid "WholesaleX B2B Users Stock quantity"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:372
+msgid ""
+"Enter a number to set stock quantity at the variation level. Use a "
+"variation's 'Manage stock?' check box above to enable/disable stock "
+"management at the variation level."
+msgstr ""
+
+#: includes/class-wholesalex-product.php:625
+#. translators: %s item name.
+msgid "Unable to reduce stock for item %s."
+msgstr ""
+
+#: includes/class-wholesalex-product.php:691
+msgid "Stock levels reduced:"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:691
+#: includes/class-wholesalex-product.php:972
+msgid "Wholesale Customer"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:961
+#. translators: %s item name.
+msgid "Unable to restore stock for item %s."
+msgstr ""
+
+#: includes/class-wholesalex-product.php:972
+msgid "Stock levels increased:"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1061
+#: includes/menu/class-wholesalex-category.php:137
+#: includes/menu/class-wholesalex-category.php:165
+#: includes/menu/class-wholesalex-email.php:565
+#: includes/menu/class-wholesalex-profile.php:210
+#: includes/menu/class-wholesalex-registration.php:276
+#: includes/menu/class-wholesalex-settings.php:157
+msgid "UNLOCK"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1062
+#: includes/menu/class-wholesalex-category.php:138
+#: includes/menu/class-wholesalex-category.php:166
+#: includes/menu/class-wholesalex-profile.php:211
+#: includes/menu/class-wholesalex-registration.php:277
+#: includes/menu/class-wholesalex-settings.php:158
+msgid "Unlock All Features"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1063
+#: includes/menu/class-wholesalex-category.php:139
+#: includes/menu/class-wholesalex-category.php:167
+#: includes/menu/class-wholesalex-profile.php:212
+#: includes/menu/class-wholesalex-registration.php:278
+#: includes/menu/class-wholesalex-settings.php:159
+msgid ""
+"We are sorry, but unfortunately, this feature is unavailable in the free "
+"version. Please upgrade to a pro plan to unlock all features."
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1064
+#: includes/menu/class-wholesalex-category.php:140
+#: includes/menu/class-wholesalex-category.php:168
+#: includes/menu/class-wholesalex-email.php:569
+#: includes/menu/class-wholesalex-profile.php:213
+#: includes/menu/class-wholesalex-registration.php:279
+#: includes/menu/class-wholesalex-settings.php:160
+msgid "Upgrade to Pro  ➤"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1264
+#: includes/menu/class-wholesalex-category.php:210
+#. translators: %s: Product Name
+msgid "Sorry, you are not allowed to see %s product."
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1324
+#: includes/menu/class-wholesalex-category.php:240
+#. translators: %s: Product Name
+msgid "Sorry, you are not allowed to checkout %s product."
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1348
+#: includes/menu/class-wholesalex-settings.php:576
+msgid "Tier Table Layout in Product Single Page"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1361
+msgid "Show Tierd Pricing Table"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1386
+#: includes/menu/class-wholesalex-category.php:327
+#: includes/menu/class-wholesalex-category.php:421
+#: includes/menu/class-wholesalex-registration.php:204
+msgid "Visibility"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1391
+#: includes/menu/class-wholesalex-category.php:332
+msgid "Hide product for B2C"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1397
+#: includes/menu/class-wholesalex-category.php:338
+msgid "Hide product for Visitors"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1403
+#: includes/menu/class-wholesalex-category.php:344
+msgid "Hide B2B Role and Users"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1405
+#: includes/menu/class-wholesalex-category.php:346
+msgid "Choose Options..."
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1406
+#: includes/menu/class-wholesalex-category.php:347
+msgid "All B2B Users"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1407
+#: includes/menu/class-wholesalex-category.php:348
+msgid "Specific B2B Roles"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1408
+#: includes/menu/class-wholesalex-category.php:349
+msgid "Specific Register Users"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1417
+#: includes/menu/class-wholesalex-category.php:358
+#: includes/menu/class-wholesalex-dynamic-rules.php:872
+#: includes/menu/class-wholesalex-registration.php:192
+msgid "Choose Roles..."
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1424
+#: includes/menu/class-wholesalex-category.php:365
+#: includes/menu/class-wholesalex-dynamic-rules.php:855
+msgid "Choose Users..."
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1461
+#: includes/class-wholesalex-product.php:2192
+msgid "Base Price"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1466
+#: includes/class-wholesalex-product.php:2193
+msgid "Sale Price"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1475
+#: includes/class-wholesalex-product.php:1490
+#: includes/class-wholesalex-product.php:1538
+#: includes/class-wholesalex-product.php:1552
+#: includes/menu/class-wholesalex-category.php:274
+#: includes/menu/class-wholesalex-category.php:289
+#: includes/menu/class-wholesalex-category.php:467
+#: includes/menu/class-wholesalex-dynamic-rules.php:999
+#: includes/menu/class-wholesalex-dynamic-rules.php:1048
+#: includes/menu/class-wholesalex-dynamic-rules.php:1206
+#: includes/menu/class-wholesalex-profile.php:1054
+#: includes/menu/class-wholesalex-profile.php:1069
+msgid "Discount Type"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1477
+#: includes/class-wholesalex-product.php:1497
+#: includes/class-wholesalex-product.php:1540
+#: includes/class-wholesalex-product.php:1559
+#: includes/menu/class-wholesalex-category.php:276
+#: includes/menu/class-wholesalex-category.php:296
+#. translators: %s: WholesaleX Role Name
+msgid " %s Price"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1478
+#: includes/class-wholesalex-product.php:1503
+#: includes/class-wholesalex-product.php:1541
+#: includes/class-wholesalex-product.php:1566
+#: includes/menu/class-wholesalex-category.php:277
+#: includes/menu/class-wholesalex-category.php:302
+#: includes/menu/class-wholesalex-profile.php:1056
+#: includes/menu/class-wholesalex-profile.php:1081
+msgid "Min Quantity"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1484
+#: includes/class-wholesalex-product.php:1547
+#: includes/menu/class-wholesalex-category.php:283
+#: includes/menu/class-wholesalex-category.php:399
+#: includes/menu/class-wholesalex-category.php:469
+#: includes/menu/class-wholesalex-profile.php:1063
+msgid "Choose Discount Type..."
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1485
+#: includes/class-wholesalex-product.php:1548
+#: includes/menu/class-wholesalex-category.php:284
+#: includes/menu/class-wholesalex-category.php:400
+#: includes/menu/class-wholesalex-category.php:470
+#: includes/menu/class-wholesalex-profile.php:1064
+msgid "Discount Amount"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1486
+#: includes/class-wholesalex-product.php:1549
+#: includes/menu/class-wholesalex-category.php:285
+#: includes/menu/class-wholesalex-category.php:401
+#: includes/menu/class-wholesalex-category.php:471
+#: includes/menu/class-wholesalex-profile.php:1065
+msgid "Discount Percentage"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1487
+#: includes/class-wholesalex-product.php:1550
+#: includes/menu/class-wholesalex-category.php:286
+#: includes/menu/class-wholesalex-category.php:402
+#: includes/menu/class-wholesalex-category.php:472
+#: includes/menu/class-wholesalex-dynamic-rules.php:1003
+#: includes/menu/class-wholesalex-dynamic-rules.php:1052
+#: includes/menu/class-wholesalex-dynamic-rules.php:1210
+#: includes/menu/class-wholesalex-profile.php:1066
+msgid "Fixed Price"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1508
+#: includes/class-wholesalex-product.php:1571
+#: includes/menu/class-wholesalex-category.php:307
+#: includes/menu/class-wholesalex-profile.php:1191
+msgid "Add Price Tier"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1512
+#: includes/class-wholesalex-product.php:1575
+#: includes/menu/class-wholesalex-category.php:311
+#: includes/menu/class-wholesalex-profile.php:1195
+msgid "Go For Unlimited Price Tiers"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1592
+#. translators: %s - Plugin Name
+msgid "%s B2B Special"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1619
+#. translators: %s - Plugin Name
+msgid "Enabled %s Rule"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:1976
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:321
+#: includes/menu/class-wholesalex-dynamic-rules.php:791
+#: includes/menu/class-wholesalex-dynamic-rules.php:1231
+msgid "BOGO Discounts (Buy X Get One Free)"
+msgstr ""
+
+#: includes/class-wholesalex-product.php:2187
+msgid "Rolewise Pricing"
+msgstr ""
+
+#: includes/class-wholesalex-request-api.php:42 includes/options/Addons.php:158
+msgid ""
+"Please Set Site Key and Secret Key Before Enable Recaptcha (Path: Dashboard "
+"> %s > Settings > Recaptcha)"
+msgstr ""
+
+#: includes/class-wholesalex-shortcodes.php:267
+msgid "Lost your password?"
+msgstr ""
+
+#: includes/class-wholesalex-shortcodes.php:385
+#: includes/class-wholesalex-shortcodes.php:415
+msgid "Logout to See this form"
+msgstr ""
+
+#: includes/class-wholesalex-shortcodes.php:2911
+msgid "optional"
+msgstr ""
+
+#: includes/class-wholesalex-shortcodes.php:3166
+#. translators: %s: Field Title.
+msgid "Username is Required!"
+msgstr ""
+
+#: includes/class-wholesalex-shortcodes.php:3170
+#: includes/menu/class-wholesalex-registration.php:1075
+#: includes/menu/class-wholesalex-registration.php:1294
+msgid "Password is Required!"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:68
+msgid "WholesaleX: New User Approval Required"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:69
+msgid ""
+"WhoesaleX: New User Approval Required emails are sent to the site admin "
+"when a customer signs up via wholesalex registration from and user status "
+"set to approve require."
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:88
+#: includes/emails/class-wholesalex-new-user-approval-require.php:98
+msgid " A New user registered and awaiting your approval."
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:168
+#: includes/emails/class-wholesalex-new-user-approved.php:170
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:167
+#: includes/emails/class-wholesalex-new-user-email-verified.php:166
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:168
+#: includes/emails/class-wholesalex-new-user-registered.php:170
+#: includes/emails/class-wholesalex-new-user-rejected.php:172
+#: includes/emails/class-wholesalex-new-user-verification.php:171
+#. translators: %s: list of placeholders
+msgid "Available placeholders: %s"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:171
+#: includes/emails/class-wholesalex-new-user-approved.php:173
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:170
+#: includes/emails/class-wholesalex-new-user-email-verified.php:169
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:171
+#: includes/emails/class-wholesalex-new-user-registered.php:173
+#: includes/emails/class-wholesalex-new-user-rejected.php:175
+#: includes/emails/class-wholesalex-new-user-verification.php:174
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:173
+#: includes/emails/class-wholesalex-new-user-approved.php:175
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:172
+#: includes/emails/class-wholesalex-new-user-email-verified.php:171
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:173
+#: includes/emails/class-wholesalex-new-user-registered.php:175
+#: includes/emails/class-wholesalex-new-user-rejected.php:177
+#: includes/emails/class-wholesalex-new-user-verification.php:176
+msgid "Enable this email notification"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:177
+#: includes/emails/class-wholesalex-new-user-registered.php:179
+msgid "Recipient(s)"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:179
+#: includes/emails/class-wholesalex-new-user-registered.php:181
+msgid "Enter recipients (comma separated) for this email. Defaults to"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:184
+#: includes/emails/class-wholesalex-new-user-approved.php:179
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:176
+#: includes/emails/class-wholesalex-new-user-email-verified.php:175
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:177
+#: includes/emails/class-wholesalex-new-user-registered.php:186
+#: includes/emails/class-wholesalex-new-user-rejected.php:181
+#: includes/emails/class-wholesalex-new-user-verification.php:180
+#: includes/menu/class-wholesalex-email.php:553
+#: includes/menu/class-wholesalex-support.php:151
+msgid "Subject"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:192
+#: includes/emails/class-wholesalex-new-user-approved.php:187
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:184
+#: includes/emails/class-wholesalex-new-user-email-verified.php:183
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:185
+#: includes/emails/class-wholesalex-new-user-registered.php:194
+#: includes/emails/class-wholesalex-new-user-rejected.php:189
+#: includes/emails/class-wholesalex-new-user-verification.php:188
+msgid "Email heading"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:200
+#: includes/emails/class-wholesalex-new-user-approved.php:195
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:192
+#: includes/emails/class-wholesalex-new-user-email-verified.php:191
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:193
+#: includes/emails/class-wholesalex-new-user-registered.php:202
+#: includes/emails/class-wholesalex-new-user-rejected.php:197
+#: includes/emails/class-wholesalex-new-user-verification.php:196
+msgid "Additional content"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:201
+#: includes/emails/class-wholesalex-new-user-approved.php:196
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:193
+#: includes/emails/class-wholesalex-new-user-email-verified.php:192
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:194
+#: includes/emails/class-wholesalex-new-user-registered.php:203
+#: includes/emails/class-wholesalex-new-user-rejected.php:198
+#: includes/emails/class-wholesalex-new-user-verification.php:197
+msgid "Text to appear below the main email content."
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:203
+#: includes/emails/class-wholesalex-new-user-approved.php:198
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:195
+#: includes/emails/class-wholesalex-new-user-email-verified.php:194
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:196
+#: includes/emails/class-wholesalex-new-user-registered.php:205
+#: includes/emails/class-wholesalex-new-user-rejected.php:200
+#: includes/emails/class-wholesalex-new-user-verification.php:199
+msgid "N/A"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:209
+#: includes/emails/class-wholesalex-new-user-approved.php:204
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:201
+#: includes/emails/class-wholesalex-new-user-email-verified.php:200
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:202
+#: includes/emails/class-wholesalex-new-user-registered.php:211
+#: includes/emails/class-wholesalex-new-user-rejected.php:206
+#: includes/emails/class-wholesalex-new-user-verification.php:205
+msgid "Email type"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:211
+#: includes/emails/class-wholesalex-new-user-approved.php:206
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:203
+#: includes/emails/class-wholesalex-new-user-email-verified.php:202
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:204
+#: includes/emails/class-wholesalex-new-user-registered.php:213
+#: includes/emails/class-wholesalex-new-user-rejected.php:208
+#: includes/emails/class-wholesalex-new-user-verification.php:207
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:215
+#: includes/emails/class-wholesalex-new-user-approved.php:210
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:207
+#: includes/emails/class-wholesalex-new-user-email-verified.php:206
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:208
+#: includes/emails/class-wholesalex-new-user-registered.php:217
+#: includes/emails/class-wholesalex-new-user-rejected.php:212
+#: includes/emails/class-wholesalex-new-user-verification.php:211
+msgid "HTML"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approval-require.php:216
+#: includes/emails/class-wholesalex-new-user-approved.php:211
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:208
+#: includes/emails/class-wholesalex-new-user-email-verified.php:207
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:209
+#: includes/emails/class-wholesalex-new-user-registered.php:218
+#: includes/emails/class-wholesalex-new-user-rejected.php:213
+#: includes/emails/class-wholesalex-new-user-verification.php:212
+msgid "Multipart"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approved.php:69
+msgid "WholesaleX: Registration Approve"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approved.php:70
+msgid ""
+"WholesaleX: Registration Approve emails are sent to the customer when "
+"customer registration request is approved by the site admin."
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approved.php:88
+#: includes/emails/class-wholesalex-new-user-approved.php:98
+#: includes/menu/class-wholesalex-email.php:219
+#: includes/menu/class-wholesalex-email.php:220
+msgid "Your %s Registration Request Approved"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-approved.php:162
+#: includes/emails/class-wholesalex-new-user-email-verified.php:158
+#: includes/emails/class-wholesalex-new-user-rejected.php:164
+#: includes/menu/class-wholesalex-email.php:207
+msgid "We look forward to seeing you soon."
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:69
+msgid "WholesaleX: New User (Auto Approved)"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:70
+msgid ""
+"WhoesaleX: New User emails are sent to the customer when a customer signs "
+"up via wholesalex registration from and User Status set to auto approval."
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:88
+msgid "Your {site_title} account successfully created!"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-auto-approved.php:98
+msgid "Welcome to {site_title}"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-email-verified.php:69
+msgid "WholesaleX: Email Verified"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-email-verified.php:70
+msgid ""
+"WholesaleX: Email Verified emails are sent to the customer when email is "
+"verified."
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-email-verified.php:88
+#: includes/emails/class-wholesalex-new-user-email-verified.php:98
+#: includes/menu/class-wholesalex-email.php:247
+#: includes/menu/class-wholesalex-email.php:248
+msgid "Congratulations! Your Account is Now Verified and Approved"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:69
+msgid "WholesaleX: Registration Pending For Approval"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:70
+msgid ""
+"WholesaleX: Registration Pending For Approval emails are sent to the users "
+"when a customer signs up via wholesalex registration from and user status "
+"set to approval required."
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:88
+#: includes/emails/class-wholesalex-new-user-pending-for-approval.php:98
+#: includes/menu/class-wholesalex-email.php:261
+#: includes/menu/class-wholesalex-email.php:262
+msgid "Registration Request Received"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-registered.php:68
+msgid "WholesaleX: New User Registered"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-registered.php:69
+msgid ""
+"WhoesaleX: New User Registered emails are sent to the site admin when a "
+"customer signs up via wholesalex registration from"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-registered.php:89
+#: includes/emails/class-wholesalex-new-user-registered.php:99
+#: includes/menu/class-wholesalex-email.php:275
+#: includes/menu/class-wholesalex-email.php:276
+msgid "A New User Has been registered"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-rejected.php:69
+msgid "WholesaleX: Registration Rejected"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-rejected.php:70
+msgid ""
+"WhoesaleX: Registration Rejected emails are sent to the customer when "
+"customer registration request is rejected by the site admin."
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-rejected.php:88
+#: includes/emails/class-wholesalex-new-user-rejected.php:98
+msgid "Your {site_title} Registration Request Rejected"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-verification.php:69
+msgid "WholesaleX: Email Verification"
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-verification.php:70
+msgid ""
+"WholesaleX: Email Verification emails are sent to the users when a customer "
+"signs up via wholesalex registration from and user status set to Email "
+"Verification Required."
+msgstr ""
+
+#: includes/emails/class-wholesalex-new-user-verification.php:88
+#: includes/emails/class-wholesalex-new-user-verification.php:98
+#: includes/menu/class-wholesalex-email.php:304
+#: includes/menu/class-wholesalex-email.php:305
+msgid "Account Registration Confirmation - Action Required"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:53
+#: includes/export/class-wholesalex-roles-csv-exporter.php:53
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:252
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:336
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:253
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:313
+msgid "ID"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:54
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:253
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:337
+#: includes/menu/class-wholesalex-email.php:560
+#: includes/menu/class-wholesalex-overview.php:321
+#: includes/menu/class-wholesalex-users.php:338
+msgid "Status"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:55
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:254
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:338
+#: includes/menu/class-wholesalex-registration.php:165
+msgid "Title"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:56
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:255
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:339
+msgid "Type"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:57
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:256
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:340
+msgid "Applicable For"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:58
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:257
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:341
+msgid "Applicable Users"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:59
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:258
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:342
+msgid "Applicable Roles"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:60
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:259
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:343
+msgid "Applicable On"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:61
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:260
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:344
+msgid "Product In Lists"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:62
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:261
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:345
+msgid "Product Not in Lists"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:63
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:262
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:346
+msgid "Categories In Lists"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:64
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:263
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:347
+msgid "Categories Not in Lists"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:65
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:264
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:348
+msgid "Variation In Lists"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:66
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:265
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:349
+msgid "Variation Not in Lists"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:67
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:266
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:350
+msgid "Product Discount Data"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:68
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:267
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:351
+msgid "Cart Discount Data"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:69
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:268
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:352
+msgid "Payment Discount Data"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:70
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:269
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:353
+msgid "Payment Order Quantity Data"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:71
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:270
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:354
+msgid "BOGO Discount Data"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:72
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:271
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:355
+msgid "Shipping Rule Data"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:73
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:272
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:356
+msgid "Min Order Quantity Data"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:74
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:273
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:357
+msgid "Tax Rule Data"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:75
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:274
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:358
+msgid "Quantity Based Data"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:76
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:275
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:359
+msgid "Extra Charge Data"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:77
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:276
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:360
+msgid "Buy X Get Y Data"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:78
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:277
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:361
+msgid "Max Order Quantity Data"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:79
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:278
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:362
+msgid "Restrict Product Visibility Data"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:80
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:279
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:363
+msgid "Conditions Data"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:81
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:280
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:364
+#: includes/menu/class-wholesalex-dynamic-rules.php:1331
+msgid "Usages Limit"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:82
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:281
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:365
+#: includes/menu/class-wholesalex-dynamic-rules.php:1341
+msgid "Start Date"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:83
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:282
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:366
+msgid "End Date"
+msgstr ""
+
+#: includes/export/class-wholesalex-dynamic-rule-exporter.php:172
+#: includes/export/class-wholesalex-roles-csv-exporter.php:146
+#: includes/menu/class-wholesalex-dynamic-rules.php:691
+#: includes/menu/class-wholesalex-role.php:202
+msgid "Untitled"
+msgstr ""
+
+#: includes/export/class-wholesalex-roles-csv-exporter.php:54
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:254
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:314
+msgid "Role Title"
+msgstr ""
+
+#: includes/export/class-wholesalex-roles-csv-exporter.php:55
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:255
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:315
+msgid "Shipping Methods"
+msgstr ""
+
+#: includes/export/class-wholesalex-roles-csv-exporter.php:56
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:256
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:316
+#: includes/menu/class-wholesalex-role.php:401
+msgid "Payment Methods"
+msgstr ""
+
+#: includes/export/class-wholesalex-roles-csv-exporter.php:57
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:257
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:317
+msgid "Disable Coupon"
+msgstr ""
+
+#: includes/export/class-wholesalex-roles-csv-exporter.php:58
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:258
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:318
+#: includes/menu/class-wholesalex-features.php:88
+msgid "Auto Role Migration"
+msgstr ""
+
+#: includes/export/class-wholesalex-roles-csv-exporter.php:59
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:259
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:319
+msgid "Role Migration Threshold Value"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:168
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:169
+msgid ""
+"File is empty. Please upload something more substantial. This error could "
+"also be caused by uploads being disabled in your php.ini or by "
+"post_max_size being defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:173
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:212
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:441
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:91
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:174
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:213
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:394
+#: includes/import/class-wholesalex-role-csv-importer.php:88
+msgid "Invalid file type. The importer supports CSV and TXT file formats."
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:219
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:220
+msgid "Please upload or provide the link to a valid CSV file."
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:445
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:398
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:455
+#: includes/import/class-wholesalex-role-csv-importer-controller.php:408
+#: includes/menu/class-wholesalex-dynamic-rules.php:698
+#: includes/menu/class-wholesalex-users.php:115
+msgid "Error Occured!"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:538
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer-controller.php:552
+#: includes/menu/class-wholesalex-dynamic-rules.php:208
+#: includes/menu/class-wholesalex-dynamic-rules.php:658
+#: includes/menu/class-wholesalex-dynamic-rules.php:672
+msgid "New Rule"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:317
+#: includes/menu/class-wholesalex-dynamic-rules.php:787
+msgid "Product Discount"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:318
+#: includes/menu/class-wholesalex-dynamic-rules.php:788
+msgid "Cart Discount "
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:319
+#: includes/menu/class-wholesalex-dynamic-rules.php:789
+#: includes/menu/class-wholesalex-dynamic-rules.php:1024
+msgid "Payment Discount"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:320
+#: includes/menu/class-wholesalex-dynamic-rules.php:790
+msgid "Payment Order Quantity "
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:322
+#: includes/menu/class-wholesalex-dynamic-rules.php:792
+#: includes/menu/class-wholesalex-dynamic-rules.php:1159
+msgid "Shipping Rule"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:323
+#: includes/menu/class-wholesalex-dynamic-rules.php:793
+#: includes/menu/class-wholesalex-dynamic-rules.php:1250
+msgid "Minimum Order Quantity"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:324
+#: includes/menu/class-wholesalex-dynamic-rules.php:794
+#: includes/menu/class-wholesalex-dynamic-rules.php:1105
+msgid "Tax Rule"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:325
+#: includes/menu/class-wholesalex-dynamic-rules.php:795
+msgid "Quantity Based Discount (Pro)"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:326
+#: includes/menu/class-wholesalex-dynamic-rules.php:796
+msgid "Extra Charge (Pro)"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:327
+#: includes/menu/class-wholesalex-dynamic-rules.php:797
+msgid "Buy X Get Y (Pro)"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:328
+#: includes/menu/class-wholesalex-dynamic-rules.php:798
+msgid "Maximum Order Quantity (Pro)"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:329
+#: includes/menu/class-wholesalex-dynamic-rules.php:799
+msgid "Restrict Product Visibility (Pro)"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:353
+#: includes/menu/class-wholesalex-dynamic-rules.php:815
+msgid "All Users"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:354
+#: includes/menu/class-wholesalex-dynamic-rules.php:816
+msgid "All Roles"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:355
+#: includes/menu/class-wholesalex-dynamic-rules.php:817
+msgid "Specific Users"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:356
+#: includes/menu/class-wholesalex-dynamic-rules.php:818
+msgid "Specific Roles"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:444
+#: includes/menu/class-wholesalex-dynamic-rules.php:832
+#: includes/menu/class-wholesalex-profile.php:1087
+msgid "All Products"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:445
+#: includes/menu/class-wholesalex-dynamic-rules.php:833
+#: includes/menu/class-wholesalex-profile.php:1088
+msgid "Product in list"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:446
+#: includes/menu/class-wholesalex-dynamic-rules.php:834
+#: includes/menu/class-wholesalex-profile.php:1089
+msgid "Product not in list"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:447
+#: includes/menu/class-wholesalex-dynamic-rules.php:835
+#: includes/menu/class-wholesalex-profile.php:1090
+msgid "Categories in list"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:448
+#: includes/menu/class-wholesalex-dynamic-rules.php:836
+#: includes/menu/class-wholesalex-profile.php:1091
+msgid "Categories not in list"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:449
+#: includes/menu/class-wholesalex-dynamic-rules.php:837
+#: includes/menu/class-wholesalex-profile.php:1092
+msgid "Attribute in list"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:450
+#: includes/menu/class-wholesalex-dynamic-rules.php:838
+#: includes/menu/class-wholesalex-profile.php:1093
+msgid "Attribute not in list"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:1048
+#: includes/import/class-wholesalex-role-csv-importer.php:436
+#. translators: %d: dynamic_rule ID
+#. translators: %d: role ID
+msgid "ID %d"
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:1089
+msgid "A dynamic_rule with this ID already exists."
+msgstr ""
+
+#: includes/import/class-wholesalex-dynamic-rule-csv-importer.php:1101
+msgid "No matching dynamic_rule exists to update."
+msgstr ""
+
+#: includes/import/class-wholesalex-role-csv-importer.php:476
+msgid "A role with this ID already exists."
+msgstr ""
+
+#: includes/import/class-wholesalex-role-csv-importer.php:488
+msgid "No matching role exists to update."
+msgstr ""
+
+#: includes/menu/class-wholesalex-category.php:324
+#. translators: %s: Plugin Name
+msgid "%s Settings"
+msgstr ""
+
+#: includes/menu/class-wholesalex-category.php:374
+#. translators: %s: Plugin Name
+msgid "%s Tier Pricing"
+msgstr ""
+
+#: includes/menu/class-wholesalex-category.php:424
+#. translators: %s: Plugin Name
+msgid "%s Users and Public"
+msgstr ""
+
+#: includes/menu/class-wholesalex-category.php:425
+msgid "Public Only"
+msgstr ""
+
+#: includes/menu/class-wholesalex-category.php:427
+#. translators: %s: Plugin Name
+msgid "%s User Only"
+msgstr ""
+
+#: includes/menu/class-wholesalex-category.php:440
+msgid "Quantity Based Pricing"
+msgstr ""
+
+#: includes/menu/class-wholesalex-category.php:441
+msgid "Enable Quantity Based Pricing"
+msgstr ""
+
+#: includes/menu/class-wholesalex-category.php:446
+msgid "Apply Quantity Based Pricing in each product"
+msgstr ""
+
+#: includes/menu/class-wholesalex-category.php:447
+msgid "Enable Quantity Based Pricing on each product"
+msgstr ""
+
+#: includes/menu/class-wholesalex-category.php:453
+msgid "Start Qty"
+msgstr ""
+
+#: includes/menu/class-wholesalex-category.php:460
+msgid "End Qty"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:144
+#: includes/menu/class-wholesalex-dynamic-rules.php:145
+#: includes/menu/class-wholesalex-dynamic-rules.php:684
+msgid "Dynamic Rules"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:282
+msgid "Sucessfully Deleted."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:288
+#: includes/menu/class-wholesalex-role.php:111
+#: includes/menu/class-wholesalex-settings.php:107
+msgid "Successfully Saved."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:295
+msgid "Before Status Update, You Have to Save Rule Status."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:591
+#: includes/menu/class-wholesalex-profile.php:851
+#: includes/menu/class-wholesalex-role.php:288
+msgid "Choose Shipping Zone..."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:685
+msgid "Please Fill All Fields."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:686
+msgid "Minimum Product Quantity Should Greater then Free Product Quantity."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:687
+#: includes/menu/class-wholesalex-dynamic-rules.php:759
+#: includes/menu/class-wholesalex-dynamic-rules.php:760
+msgid "Rule Title"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:688
+#: includes/menu/class-wholesalex-dynamic-rules.php:744
+msgid "Create Dynamic Rule"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:689
+#: includes/menu/class-wholesalex-role.php:196
+#: includes/menu/class-wholesalex-users.php:106
+#: includes/menu/class-wholesalex-users.php:133
+msgid "Import"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:690
+#: includes/menu/class-wholesalex-role.php:197
+#: includes/menu/class-wholesalex-users.php:107
+msgid "Export"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:692
+#: includes/menu/class-wholesalex-role.php:203
+msgid "Duplicate of "
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:693
+msgid "Delete this Rule."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:694
+msgid "Duplicate this Rule."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:695
+msgid "Show/Hide Rule Details."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:696
+msgid "Vendor #"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:697
+msgid "Untitled Rule"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:699
+msgid "Map CSV Fields to Dynamic Rules"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:700
+#: includes/menu/class-wholesalex-role.php:206
+msgid ""
+"Select fields from your CSV file to map against role fields, or to ignore "
+"during import."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:701
+#: includes/menu/class-wholesalex-role.php:207
+msgid "Column name"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:702
+#: includes/menu/class-wholesalex-role.php:208
+msgid "Map to field"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:703
+#: includes/menu/class-wholesalex-role.php:209
+msgid "Do not import"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:704
+#: includes/menu/class-wholesalex-role.php:210
+msgid "Run the importer"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:705
+#: includes/menu/class-wholesalex-role.php:211
+msgid "Importing"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:706
+#: includes/menu/class-wholesalex-role.php:213
+#: includes/menu/class-wholesalex-users.php:125
+msgid "Upload CSV"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:707
+#: includes/menu/class-wholesalex-role.php:214
+#: includes/menu/class-wholesalex-users.php:126
+msgid "You can upload only csv file format"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:708
+msgid "Your Dynamic Rules are now being imported.."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:709
+msgid "Update Existing Rules"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:710
+msgid ""
+"Selecting \"Update Existing Rules\" will only update existing rules. No new "
+"rules will be added."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:711
+#: includes/menu/class-wholesalex-role.php:217
+msgid "Continue"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:712
+msgid " Dynamic Rules Imported."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:713
+msgid " Dynamic Rules Updated."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:714
+msgid " Dynamic Rules Skipped."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:715
+msgid " Dynamic Rules Failed."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:716
+msgid "View Error Logs"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:717
+msgid "Dynamic Rule"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:718
+#: includes/menu/class-wholesalex-role.php:226
+msgid "Reason for failure"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:719
+msgid "Import Dynamic Rules"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:749
+msgid "New Dynamic Rule"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:766
+msgid "Rule Status"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:772
+#: includes/menu/class-wholesalex-role.php:326
+msgid "Save"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:782
+msgid "Rule Type"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:786
+msgid "Choose Rule..."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:800
+msgid "Hidden Price (Pro)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:801
+msgid "Non Purchasable (Pro)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:810
+msgid "Select User/Role"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:814
+msgid "Select Users/Role..."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:827
+#: includes/menu/class-wholesalex-profile.php:1057
+#: includes/menu/class-wholesalex-profile.php:1096
+msgid "Product Filter"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:831
+#: includes/menu/class-wholesalex-profile.php:1086
+msgid "Choose Filter..."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:845
+msgid "Select Users"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:862
+msgid "Select Roles"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:879
+#: includes/menu/class-wholesalex-dynamic-rules.php:896
+msgid "Select Multiple Products"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:889
+#: includes/menu/class-wholesalex-profile.php:1107
+msgid "Choose Products to apply discounts"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:907
+#: includes/menu/class-wholesalex-profile.php:1122
+msgid "Choose Products that wont apply discounts"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:914
+#: includes/menu/class-wholesalex-dynamic-rules.php:932
+msgid "Select Multiple Categories"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:925
+#: includes/menu/class-wholesalex-profile.php:1137
+msgid "Choose Categories to apply discounts"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:943
+#: includes/menu/class-wholesalex-profile.php:1152
+msgid "Choose Categories that wont apply discounts"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:950
+#: includes/menu/class-wholesalex-dynamic-rules.php:968
+msgid "Select Multiple Attributes"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:961
+#: includes/menu/class-wholesalex-profile.php:1167
+msgid "Choose Product Variations to apply discounts"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:979
+#: includes/menu/class-wholesalex-profile.php:1182
+msgid "Choose Product Variations that wont apply discounts"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:988
+msgid "Manage Discount"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1001
+#: includes/menu/class-wholesalex-dynamic-rules.php:1050
+#: includes/menu/class-wholesalex-dynamic-rules.php:1208
+msgid "Percentage"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1002
+#: includes/menu/class-wholesalex-dynamic-rules.php:1009
+#: includes/menu/class-wholesalex-dynamic-rules.php:1051
+#: includes/menu/class-wholesalex-dynamic-rules.php:1058
+#: includes/menu/class-wholesalex-dynamic-rules.php:1209
+#: includes/menu/class-wholesalex-dynamic-rules.php:1216
+#: includes/menu/class-wholesalex-dynamic-rules.php:1314
+#: includes/menu/class-wholesalex-profile.php:1055
+#: includes/menu/class-wholesalex-profile.php:1075
+msgid "Amount"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1016
+#: includes/menu/class-wholesalex-dynamic-rules.php:1065
+#: includes/menu/class-wholesalex-dynamic-rules.php:1223
+msgid "Disc. name(optional)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1018
+#: includes/menu/class-wholesalex-dynamic-rules.php:1067
+#: includes/menu/class-wholesalex-dynamic-rules.php:1225
+msgid "Add disc. Name herer"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1035
+#: includes/menu/class-wholesalex-dynamic-rules.php:1084
+#: includes/menu/class-wholesalex-profile.php:1018
+msgid "Payment Gateways"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1073
+msgid "Payment Order Qty"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1097
+msgid "Order Qty"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1116
+msgid "Tax Exempted?"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1118
+msgid "Choose Tax Exempted Status..."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1133
+msgid "Tax Class Mapping"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1141
+msgid "Country(optional)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1170
+#: includes/menu/class-wholesalex-profile.php:958
+msgid "Shipping Zone"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1181
+#: includes/menu/class-wholesalex-profile.php:979
+msgid "Shipping Zone Methods"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1195
+msgid "Cart Discount"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1242
+msgid "Product Quantity (X)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1269
+msgid "Conditions: (optional)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1283
+msgid "Choose Conditions..."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1284
+msgid "Cart - Total Qty"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1285
+msgid "Cart - Total Value"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1286
+msgid "Cart - Total Weight"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1287
+msgid "User Order Count (Pro)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1288
+msgid "Total Purchase Amount (Pro)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1300
+msgid "Choose Operators..."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1301
+msgid "Less than (<)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1302
+msgid "Less than or equal (<=)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1303
+msgid "Greater than or equal (>=)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1304
+msgid "Greater than (>)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1323
+msgid "Date & Limit Rule"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:1348
+msgid "End Data"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:2207
+msgid ""
+"Buy X Get One Dynamic Rule Only Applicable when Product Quantity is Greater "
+"Than 1."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:2230
+msgid "(BOGO Discounts)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:2324
+#: includes/menu/class-wholesalex-dynamic-rules.php:2343
+#: includes/menu/class-wholesalex-settings.php:551
+msgid "Login to see prices"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:2539
+msgid "Wholesale Price: "
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:3111
+#: includes/menu/class-wholesalex-dynamic-rules.php:3330
+msgid "Product Quantity"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:3114
+#: includes/menu/class-wholesalex-dynamic-rules.php:3333
+msgid "Discount"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:3117
+#: includes/menu/class-wholesalex-dynamic-rules.php:3190
+#: includes/menu/class-wholesalex-dynamic-rules.php:3336
+#: includes/menu/class-wholesalex-dynamic-rules.php:3409
+#: includes/menu/class-wholesalex-dynamic-rules.php:3493
+#: includes/menu/class-wholesalex-dynamic-rules.php:3579
+msgid "Price per Unit"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:3182
+#: includes/menu/class-wholesalex-dynamic-rules.php:3401
+#: includes/menu/class-wholesalex-dynamic-rules.php:3486
+#: includes/menu/class-wholesalex-dynamic-rules.php:3570
+msgid "Tier Purchase"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:3191
+#: includes/menu/class-wholesalex-dynamic-rules.php:3410
+#: includes/menu/class-wholesalex-dynamic-rules.php:3494
+#: includes/menu/class-wholesalex-dynamic-rules.php:3580
+msgid "Quantity (Pieces)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:3251
+#: includes/menu/class-wholesalex-dynamic-rules.php:3312
+#: includes/menu/class-wholesalex-dynamic-rules.php:3470
+#: includes/menu/class-wholesalex-dynamic-rules.php:3554
+#: includes/menu/class-wholesalex-dynamic-rules.php:3640
+#: includes/menu/class-wholesalex-dynamic-rules.php:3701
+msgid "Pieces"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:4046
+#. translators: %s: Plugin Name
+msgid "%s Free Shipping"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:4883
+#: includes/menu/class-wholesalex-dynamic-rules.php:4896
+#. translators: 1: minimum quantity, 2: product name
+msgid "You have to add minimun %1$d quantity of %2$s."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:4935
+#: includes/menu/class-wholesalex-dynamic-rules.php:4948
+#: includes/menu/class-wholesalex-dynamic-rules.php:5092
+#: includes/menu/class-wholesalex-dynamic-rules.php:5106
+#. translators: 1: minimum quantity, 2: product name
+msgid "You have to add minimum %1$d quantity of %2$s."
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:5431
+#: includes/menu/class-wholesalex-dynamic-rules.php:5453
+msgid "Payment Discount!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-dynamic-rules.php:5557
+#: includes/menu/class-wholesalex-dynamic-rules.php:5578
+msgid "Cart Discounts"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:135
+#: includes/menu/class-wholesalex-email.php:161
+#: includes/menu/class-wholesalex-email.php:164
+msgid "Success"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:205
+#: includes/menu/class-wholesalex-email.php:206
+msgid "A New user registered and awaiting your approval."
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:210
+#. translators: %s: Plugin Name
+msgid "%s: New User Approval Required"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:212
+#: includes/menu/class-wholesalex-email.php:226
+#: includes/menu/class-wholesalex-email.php:240
+#: includes/menu/class-wholesalex-email.php:254
+#: includes/menu/class-wholesalex-email.php:268
+#: includes/menu/class-wholesalex-email.php:282
+#: includes/menu/class-wholesalex-email.php:296
+#: includes/menu/class-wholesalex-email.php:311
+#: includes/menu/class-wholesalex-email.php:326
+#: includes/menu/class-wholesalex-email.php:342
+#: includes/menu/class-wholesalex-email.php:357
+msgid "Show The Current Date"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:213
+#: includes/menu/class-wholesalex-email.php:227
+#: includes/menu/class-wholesalex-email.php:241
+#: includes/menu/class-wholesalex-email.php:255
+#: includes/menu/class-wholesalex-email.php:269
+#: includes/menu/class-wholesalex-email.php:283
+#: includes/menu/class-wholesalex-email.php:297
+#: includes/menu/class-wholesalex-email.php:312
+#: includes/menu/class-wholesalex-email.php:327
+#: includes/menu/class-wholesalex-email.php:343
+#: includes/menu/class-wholesalex-email.php:358
+#: includes/menu/class-wholesalex-email.php:373
+#: includes/menu/class-wholesalex-email.php:394
+#: includes/menu/class-wholesalex-email.php:415
+#: includes/menu/class-wholesalex-email.php:436
+#: includes/menu/class-wholesalex-email.php:457
+#: includes/menu/class-wholesalex-email.php:478
+msgid "Show Site Admin Name"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:214
+#: includes/menu/class-wholesalex-email.php:228
+#: includes/menu/class-wholesalex-email.php:242
+#: includes/menu/class-wholesalex-email.php:256
+#: includes/menu/class-wholesalex-email.php:270
+#: includes/menu/class-wholesalex-email.php:284
+#: includes/menu/class-wholesalex-email.php:298
+#: includes/menu/class-wholesalex-email.php:313
+#: includes/menu/class-wholesalex-email.php:328
+#: includes/menu/class-wholesalex-email.php:344
+#: includes/menu/class-wholesalex-email.php:359
+#: includes/menu/class-wholesalex-email.php:374
+#: includes/menu/class-wholesalex-email.php:396
+#: includes/menu/class-wholesalex-email.php:417
+#: includes/menu/class-wholesalex-email.php:438
+#: includes/menu/class-wholesalex-email.php:459
+#: includes/menu/class-wholesalex-email.php:480
+msgid "Show Site Name"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:224
+#. translators: %s: Plugin Name
+msgid "%s: Registration Approve"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:233
+msgid "Your %s account successfully created!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:234
+msgid "Welcome to %s"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:238
+#. translators: %s: Plugin Name
+msgid "%s: New User (Auto Approved)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:252
+#. translators: %s: Plugin Name
+msgid "%s: Email Verified"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:266
+#. translators: %s: Plugin Name
+msgid "%s: Registration Pending For Approval"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:280
+#. translators: %s: Plugin Name
+msgid "%s: New User Registered"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:289
+#: includes/menu/class-wholesalex-email.php:290
+msgid "Your %s Registration Request Rejected"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:294
+#. translators: %s: Plugin Name
+msgid "%s: Registration Rejected"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:309
+#. translators: %s: Plugin Name
+msgid "%s: Email Verification"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:319
+#: includes/menu/class-wholesalex-email.php:320
+msgid "You have received a new Quote Request"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:324
+#. translators: %s: Plugin Name
+msgid "%s: New Quote Request"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:329
+msgid "Customer Name"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:335
+#: includes/menu/class-wholesalex-email.php:336
+msgid "You have received an offer from %s"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:340
+#. translators: %s: Plugin Name
+msgid "%s: Quote Request Offer"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:350
+#: includes/menu/class-wholesalex-email.php:351
+msgid "Offer is expiring soon."
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:355
+#. translators: %s: Plugin Name
+msgid "%s: Quote Request Offer Expiring"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:365
+#: includes/menu/class-wholesalex-email.php:366
+msgid "Subaccount Creation Confirmation"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:370
+#. translators: %s: Plugin Name
+msgid "%s: Subaccount Create"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:372
+#: includes/menu/class-wholesalex-email.php:395
+#: includes/menu/class-wholesalex-email.php:416
+#: includes/menu/class-wholesalex-email.php:437
+#: includes/menu/class-wholesalex-email.php:458
+#: includes/menu/class-wholesalex-email.php:479
+msgid "Show Current Date"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:375
+#: includes/menu/class-wholesalex-email.php:389
+#: includes/menu/class-wholesalex-email.php:410
+#: includes/menu/class-wholesalex-email.php:431
+#: includes/menu/class-wholesalex-email.php:452
+#: includes/menu/class-wholesalex-email.php:473
+msgid "Show Subaccount Name"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:376
+#: includes/menu/class-wholesalex-email.php:397
+#: includes/menu/class-wholesalex-email.php:418
+#: includes/menu/class-wholesalex-email.php:439
+#: includes/menu/class-wholesalex-email.php:460
+#: includes/menu/class-wholesalex-email.php:481
+msgid "Show Subaccount Email"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:382
+#: includes/menu/class-wholesalex-email.php:383
+msgid "Approval Require For New Order #{order_number}"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:387
+#. translators: %s: Plugin Name
+msgid "%s: Subaccount Order Approval Require"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:390
+#: includes/menu/class-wholesalex-email.php:411
+#: includes/menu/class-wholesalex-email.php:432
+#: includes/menu/class-wholesalex-email.php:453
+#: includes/menu/class-wholesalex-email.php:474
+msgid "Show Order Date"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:391
+#: includes/menu/class-wholesalex-email.php:412
+#: includes/menu/class-wholesalex-email.php:433
+#: includes/menu/class-wholesalex-email.php:454
+#: includes/menu/class-wholesalex-email.php:475
+msgid "Show Order Number"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:392
+#: includes/menu/class-wholesalex-email.php:413
+#: includes/menu/class-wholesalex-email.php:434
+#: includes/menu/class-wholesalex-email.php:455
+#: includes/menu/class-wholesalex-email.php:476
+msgid "Show Billing Full Name"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:393
+#: includes/menu/class-wholesalex-email.php:414
+#: includes/menu/class-wholesalex-email.php:435
+#: includes/menu/class-wholesalex-email.php:456
+#: includes/menu/class-wholesalex-email.php:477
+msgid "Show View Order URL"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:403
+#: includes/menu/class-wholesalex-email.php:404
+msgid "Your Order #%s Has Been Approved"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:408
+#. translators: %s: Plugin Name
+msgid "%s: Subaccount Order Approved"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:424
+#: includes/menu/class-wholesalex-email.php:425
+msgid "Order #%s Pending For Parent Account Approval"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:429
+#. translators: %s: Plugin Name
+msgid "%s: Subaccount Order Pending For Parent Approval"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:445
+#: includes/menu/class-wholesalex-email.php:446
+msgid "An Order Placed By %s"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:450
+#. translators: %s: Plugin Name
+msgid "%s: Subaccount Order Placed"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:466
+#: includes/menu/class-wholesalex-email.php:467
+msgid "Your Order #%s Has Been Rejected"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:471
+#. translators: %s: Plugin Name
+msgid "%s: Subaccount Order Rejected"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:533
+#: includes/menu/class-wholesalex-email.php:534
+#: includes/menu/class-wholesalex-email.php:570
+msgid "Emails"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:552
+msgid "Admin Email Recipient"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:554
+msgid "Heading"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:555
+msgid "Additional Content"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:556
+msgid "Smart Tag Used"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:557
+msgid "Email Type"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:558
+msgid "Smart Tags"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:559
+#: includes/menu/class-wholesalex-settings.php:662
+msgid "Save Changes"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:561
+msgid "Email Template"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:562
+msgid "Content Type"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:563
+#: includes/menu/class-wholesalex-overview.php:322
+#: includes/menu/class-wholesalex-overview.php:340
+#: includes/menu/class-wholesalex-users.php:343
+msgid "Action"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:564
+#: includes/menu/class-wholesalex-users.php:99
+msgid "Edit"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:566
+msgid "Unlock Full Email Access"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:567
+msgid "With WholesaleX Pro"
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:568
+msgid ""
+"We are sorry, but only a limited number of emails are available on the free "
+"version. Please upgrade to a pro plan to get full access."
+msgstr ""
+
+#: includes/menu/class-wholesalex-email.php:596
+msgid "Success."
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:37
+#: includes/menu/class-wholesalex-features.php:38
+#: includes/menu/class-wholesalex-features.php:58
+msgid "Features"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:59
+msgid "Restrict Guest Access"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:60
+msgid "Bulk Order"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:61
+#: includes/menu/class-wholesalex-overview.php:254
+msgid "Request A Quote"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:62
+msgid "Wholesale Pricing"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:63
+#: includes/menu/class-wholesalex-registration.php:104
+#: includes/menu/class-wholesalex-registration.php:105
+#: includes/menu/class-wholesalex-registration.php:155
+#: includes/menu/class-wholesalex-role.php:345
+msgid "Registration Form"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:64
+msgid "Subaccounts Management"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:65
+msgid "Wallet management"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:66
+msgid "Dynamic Discount Rules"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:67
+msgid "Conversations.Built-in messaging."
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:68
+msgid "Create Unlimited User Roles"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:69
+msgid "Tax Control"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:70
+msgid "Import and Export Role Base/Sale Price"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:71
+msgid "Import Export Customer"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:72
+msgid "Automatic Approval For B2B Registration"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:73
+msgid "Manual Approval For B2B Registration"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:74
+msgid "Email Notifications For Different Actions"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:75
+msgid "Control Redirect URLs"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:76
+msgid "Visibility Control"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:77
+msgid "Shipping Control"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:78
+#: includes/menu/class-wholesalex-profile.php:949
+msgid "Force Free Shipping"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:79
+msgid "Payment Gateway Control"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:80
+msgid "Extra Charge"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:81
+msgid "BOGO Discounts"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:82
+msgid "Show Login to view prices"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:83
+msgid "Buy X Get Y"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:84
+msgid "Control Order Quantity"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:85
+msgid "Google RreCAPTCHA V3 Integration"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:86
+msgid "Quote Request"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:87
+msgid "Conversation With Store Owner"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:89
+msgid "Rolewise Credit Limit"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:90
+msgid "Conditions and Limits"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:91
+msgid ""
+"Make your wholesale area private for registered users and restrict guest "
+"users."
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:92
+msgid ""
+"Allow your customers to order products in bulk or create purchase lists to "
+"order later."
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:93
+msgid ""
+"Let the potential buyers send quote requests to you directly from the cart "
+"page."
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:94
+msgid ""
+"Effortlessly manage wholesale pricing based on multiple wholesale/b2b user "
+"roles."
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:95
+msgid ""
+"Create a custom registration form with custom fields for effective customer "
+"acquisition."
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:96
+msgid ""
+"Let your registered B2B customers create subaccounts with necessary user "
+"access."
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:97
+msgid ""
+"Let B2B customers add funds to their digital wallets and use it as a "
+"payment method."
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:98
+msgid ""
+"Effectively manage discounted wholesale pricing using the dynamic discount "
+"rules."
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:99
+msgid ""
+"Let your registered customers communicate with you with the in-built "
+"conversation system."
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:100
+msgid "The Most Complete WooCommerce"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:101
+msgid "B2B + B2C"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:102
+msgid "Hybrid Solution"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:103
+msgid "Check out the main attractive features at a glance"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:104
+msgid "Explore More"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:105
+msgid "WholesaleX core"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:106
+msgid "components"
+msgstr ""
+
+#: includes/menu/class-wholesalex-features.php:107
+msgid "Explore More Features"
+msgstr ""
+
+#: includes/menu/class-wholesalex-orders.php:35
+msgid "Order Type"
+msgstr ""
+
+#: includes/menu/class-wholesalex-orders.php:53
+#: includes/menu/class-wholesalex-orders.php:100
+#. translators: %s: Plugin Name
+msgid "%s B2B"
+msgstr ""
+
+#: includes/menu/class-wholesalex-orders.php:57
+#: includes/menu/class-wholesalex-orders.php:101
+#. translators: %s: Plugin Name
+msgid "%s B2C"
+msgstr ""
+
+#: includes/menu/class-wholesalex-orders.php:99
+#. translators: %s: Plugin Name
+msgid "Filter By %s Order Type"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:52
+#: includes/menu/class-wholesalex-overview.php:53
+#: includes/menu/class-wholesalex-overview.php:236
+msgid "Dashboard"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:220
+msgid "Select a date range to view sale data"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:221
+msgid "Select a date range"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:222
+msgid "Presets"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:223
+msgid "Custom"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:224
+msgid "Reset"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:225
+msgid "Update"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:226
+msgid "Today"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:227
+msgid "Yesterday"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:228
+msgid "Week to date"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:229
+msgid "Last week"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:230
+msgid "Month to date"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:231
+msgid "Last month"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:232
+msgid "Quarter to date"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:233
+msgid "Last quarter"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:234
+msgid "Year to date"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:235
+msgid "Last year"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:237
+msgid "New Messages"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:238
+msgid "View All"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:239
+msgid "New Registrations"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:240
+msgid "Approve"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:241
+msgid "No New Orders Found!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:242
+msgid "Pending Registration in Empty!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:243
+msgid "View Order"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:244
+msgid "Review"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:245
+msgid "No New Customer Found!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:246
+msgid "Customer No. (B2B)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:247
+msgid "Total Order (B2B)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:248
+msgid "Total Sale (B2B)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:249
+msgid "Net Revenue (B2B)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:250
+msgid "Gross Sale (B2B)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:251
+msgid "Full Access to Dynamic Rules"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:252
+msgid "Multiple Pricing Tiers"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:253
+#: includes/menu/class-wholesalex-setup-wizard.php:90
+#: includes/options/Addons.php:249
+msgid "Bulk Order Form"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:255
+msgid "Subaccounts"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:256
+#: includes/menu/class-wholesalex-setup-wizard.php:128
+#: includes/options/Addons.php:287
+msgid "Conversation"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:257
+#: includes/menu/class-wholesalex-setup-wizard.php:151
+#: includes/options/Addons.php:310
+msgid "WholesaleX Wallet"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:258
+msgid "And Much More!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:259
+msgid ""
+"Unlock the full potential of WholesaleX to create and manage WooCommerce "
+"B2B or B2B+B2C stores with ease!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:260
+#: includes/menu/class-wholesalex-support.php:161
+msgid ""
+"Join the Facebook community of WholesaleX to stay up-to-date and share your "
+"thoughts and feedback."
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:261
+msgid ""
+"Can’t find your desired feature? Let us know your requirements. We will "
+"definitely take them into our consideration."
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:262
+msgid "Getting Started Guides"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:263
+msgid "How to Create the Dynamic Rules"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:264
+msgid "How to Create User Roles"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:265
+msgid "How to Create a Registration Form"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:266
+msgid "WholesaleX Blog"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:267
+msgid "Join WholesaleX Community"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:268
+msgid "Request a Feature"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:269
+msgid "Pro Features"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:270
+#: includes/menu/class-wholesalex-support.php:156
+msgid "WholesaleX Community"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:271
+#: includes/menu/class-wholesalex-support.php:135
+msgid "Feature Request"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:272
+msgid "News, Tips & Updates"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:273
+msgid "Sales Summary (B2B)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:274
+msgid "Top Customers"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:275
+msgid "Recent Orders"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:276
+msgid "Pending Registrations"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:277
+msgid "select a preset period"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:295
+#: includes/menu/class-wholesalex-overview.php:337
+msgid "Name and Email"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:296
+msgid "Wallet Balance"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:297
+msgid "Total Purchase"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:299
+#: includes/menu/class-wholesalex-profile.php:379
+#: includes/menu/class-wholesalex-profile.php:1211
+#. translators: %s - Plugin Name
+msgid "%s Role"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:318
+msgid "Order ID"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:319
+#: includes/menu/class-wholesalex-role.php:319
+#: includes/menu/class-wholesalex-role.php:320
+#: includes/menu/class-wholesalex-support.php:149
+msgid "Name"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:320
+#: includes/menu/class-wholesalex-users.php:336
+msgid "Date"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:338
+msgid "Regi. Date"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:339
+msgid "Regi. Role"
+msgstr ""
+
+#: includes/menu/class-wholesalex-overview.php:396
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:206
+msgid "No Data Found! Please try with another keyword."
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:207
+msgid "Enter 2 or more character to search."
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:208
+msgid "Searching..."
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:209
+msgid "This User"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:290
+msgid "Sorry, you are not allowed to give users that role."
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:381
+#. translators: %s - Plugin Name
+msgid "%s Status"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:432
+msgid "- Wholesale Role -"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:444
+#: includes/menu/class-wholesalex-profile.php:462
+#: includes/menu/class-wholesalex-profile.php:530
+msgid "Filter"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:505
+msgid "Waiting Approval"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:506
+#: includes/menu/class-wholesalex-registration.php:256
+#: includes/menu/class-wholesalex-users.php:100
+msgid "Active"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:507
+msgid "Inactive"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:508
+#: includes/menu/class-wholesalex-users.php:101
+msgid "Reject"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:515
+msgid "- Wholesale Status -"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:644
+msgid "%s Extra Information"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:769
+msgid "Download File"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:773
+#: includes/menu/class-wholesalex-profile.php:778
+msgid "The file does not exist."
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:903
+#. translators: %s - Plugin Name
+msgid "%s Profile Settings"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:906
+msgid "Override Tax Exemption"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:910
+msgid "Tax Exemption"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:912
+msgid "Select Tax Exeption Status..."
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:924
+msgid "Override Shipping Method"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:928
+msgid "Shipping Options"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:930
+msgid "Select Shipping Option Override Status..."
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:940
+msgid "Shipping Method Type"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:948
+msgid "Choose Shipping Method..."
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:950
+msgid "Specify Shipping Methods"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:1002
+msgid "Override Payment Gateway Options"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:1006
+msgid "Payment Gateway Options"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:1008
+msgid "Override Payment Gateway..."
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:1040
+#. translators: %s - Plugin Name
+msgid "%s Profile Discount"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:1206
+#. translators: %s - Plugin Name
+msgid "%s User Settings"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:1214
+#. translators: %s - Plugin Name
+msgid "--Select %s Role--"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:1221
+msgid "Registration Role"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:1228
+msgid "Approve Request"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:1229
+msgid "Reject Request"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:1230
+msgid "Delete User"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:1231
+msgid "Active User"
+msgstr ""
+
+#: includes/menu/class-wholesalex-profile.php:1232
+msgid "Deactivated User"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:140
+msgid "No Mapping"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:141
+msgid "Billing First Name"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:142
+msgid "Billing Last Name"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:143
+msgid "Billing Company"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:144
+msgid "Billing Address 1"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:145
+msgid "Billing Address 2"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:146
+msgid "Billing City"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:147
+msgid "Billing Post Code"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:148
+msgid "Billing Country"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:149
+msgid "Billing State"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:150
+msgid "Billing Email"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:151
+msgid "Billing Phone"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:152
+msgid "Custom User Meta Mapping"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:156
+msgid "Form Builder"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:157
+msgid "Save Form Changes"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:158
+msgid "Get Shortcodes"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:159
+msgid "Styling & Formatting"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:160
+msgid "Premade Design"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:161
+msgid "Show Login Form"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:162
+msgid "Form Title"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:163
+msgid "Form Title Setting"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:164
+msgid "Hide Form Description"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:166
+#: includes/menu/class-wholesalex-support.php:152
+msgid "Description"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:167
+msgid "Style"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:168
+msgid "Choose Input Style"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:169
+msgid "Font Size"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:170
+msgid "Font Weight"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:171
+msgid "Font Case"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:173
+msgid "Default User Fields"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:174
+msgid "Extra Fields"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:177
+msgid "This field is already used!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:178
+msgid "Select Field"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:179
+msgid "Field"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:180
+msgid "Select Condition"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:181
+msgid "Condition"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:182
+msgid "Equal"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:183
+msgid "Not Equal"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:184
+msgid "Value"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:185
+msgid ""
+"Note: Make sure field name does not contain any space or special character. "
+"'wholesalex_cf_'  prefix will be added to the field name."
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:186
+msgid "Edit Field"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:187
+msgid "Field Condition"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:188
+msgid "Field Status"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:189
+msgid "Required"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:190
+msgid "Hide Label"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:191
+msgid "Exclude Role Items"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:193
+msgid "Field Label"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:194
+#: includes/menu/class-wholesalex-registration.php:252
+msgid "Label"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:195
+msgid "Field Name"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:196
+msgid "Options"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:197
+msgid "You cannot edit Role selection options"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:198
+#: includes/menu/class-wholesalex-registration.php:251
+msgid "Placeholder"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:199
+msgid "Help Message"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:200
+msgid "Allowed File Types (Comma Separated)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:201
+msgid "Maximum Allowed File Size in Bytes"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:202
+msgid "Show"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:203
+msgid "Hide"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:205
+msgid "All"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:206
+msgid "Any"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:207
+msgid "Operator"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:208
+msgid ""
+"When the rule will be triggered? Upon matching all conditions or any of the "
+"added conditions."
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:209
+msgid ""
+"Select whether you want to display or hide this field when the conditions "
+"match."
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:210
+msgid "WooCommerce Option"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:211
+msgid "Add WooCommerce Registration"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:212
+msgid "Add Custom Field to Billing"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:213
+msgid "Required in Billing"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:214
+msgid "Reset Successful"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:216
+msgid "Field Settings"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:217
+msgid "Video"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:221
+msgid "None"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:222
+msgid "Uppercase"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:223
+msgid "Lowercase"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:224
+msgid "Capitalize"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:228
+msgid "Color Settings"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:229
+msgid "Sign In"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:230
+msgid "Sign Up"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:231
+msgid "Main"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:232
+msgid "Container"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:233
+msgid "Separator"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:234
+msgid "Padding"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:235
+msgid "Border Radius"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:236
+#: includes/menu/class-wholesalex-settings.php:620
+msgid "Border"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:237
+msgid "Max Width"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:238
+msgid "Alignment"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:239
+msgid "Left"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:240
+msgid "Center"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:241
+msgid "Right"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:242
+msgid "Size and Spacing Settings"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:243
+msgid "Input"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:244
+msgid "Button"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:245
+msgid "Weight"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:246
+msgid "Transform"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:247
+msgid "Size"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:248
+msgid "Typography Settings"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:249
+msgid "Background"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:250
+msgid "Text"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:253
+msgid "Input Text"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:254
+msgid "State"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:255
+msgid "Normal"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:257
+msgid "Warning"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:258
+msgid "Hover"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:259
+msgid "Width"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:263
+msgid "Create a Form Right Away Using a Pre-made Designs"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:264
+msgid "Use Design"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:267
+msgid "Specific Shortcode List"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:268
+msgid "With Login Form"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:269
+msgid "Registration Form with All Roles."
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:270
+msgid "Copy To Clipboard"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:271
+msgid "B2B Global Form"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:272
+msgid "Registration Form only for"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:273
+msgid "Role."
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:433
+#: includes/menu/class-wholesalex-registration.php:489
+#. translators: %s: Account Status
+msgid ""
+"Your account Status is %s. Please Contact with Site Administration to "
+"approve your account."
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:436
+#: includes/menu/class-wholesalex-registration.php:508
+msgid ""
+"Please confirm your account by clicking the confirmation link, that already "
+"sent your registered email."
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:493
+#: includes/menu/class-wholesalex-registration.php:497
+#. translators: %s: Account Status
+msgid ""
+"Your account Status is %s. Please Contact with Site Administration to "
+"Active your account."
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:868
+msgid "Password and Confirm password does not match!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:901
+#: includes/menu/class-wholesalex-registration.php:1186
+#. translators: %s Allowed File Types.
+msgid "File Type Does not support for %1$s Field! Supported File Types is %2$s."
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:904
+#: includes/menu/class-wholesalex-registration.php:1190
+msgid "File is too large! Max Upload Size For %1$s field is %2$s."
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:919
+#: includes/menu/class-wholesalex-registration.php:924
+#: includes/menu/class-wholesalex-registration.php:931
+#: includes/menu/class-wholesalex-registration.php:936
+msgid " is Required!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-registration.php:1072
+#: includes/menu/class-wholesalex-registration.php:1291
+msgid "Email is Required!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:111
+msgid "Before Status Update, You Have to save role."
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:121
+#: includes/menu/class-wholesalex-role.php:178
+msgid "New Role"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:151
+#: includes/menu/class-wholesalex-role.php:152
+#: includes/menu/class-wholesalex-role.php:190
+msgid "User Roles"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:191
+msgid "No Shipping Zones Found!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:192
+msgid "Please Fill Role Name Field"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:193
+msgid "Succesfully Deleted."
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:194
+msgid "Succesfully Saved."
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:195
+#: includes/menu/class-wholesalex-role.php:304
+msgid "Add New B2B Role"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:198
+msgid "B2B Role: "
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:199
+msgid "Untitled Role"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:200
+msgid "Delete this Role."
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:201
+msgid "Duplicate Role."
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:204
+msgid "Show/Hide Role Details."
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:205
+msgid "Map CSV Fields to Roles"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:212
+msgid "Your roles are now being imported.."
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:215
+msgid "Update Existing Roles"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:216
+msgid ""
+"Selecting \"Update Existing Roles\" will only update existing roles. No new "
+"role will be added."
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:218
+msgid "Eror Occured!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:219
+msgid "Import Complete!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:220
+msgid " Role Imported."
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:221
+msgid " Role Updated."
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:222
+msgid " Role Skipped."
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:223
+msgid " Role Failed."
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:224
+msgid " View Error Logs"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:225
+#: includes/menu/class-wholesalex-users.php:337
+msgid "Role"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:227
+msgid "Import User Roles"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:284
+msgid "If no methods are selected, all methods are available for this role."
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:309
+msgid "Create New Role"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:337
+msgid "Role ID"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:350
+msgid "Registration Status"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:352
+msgid "Use Global Setting"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:353
+msgid "Email Confirmation Required"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:354
+msgid "Automatically Approve Account"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:355
+msgid "Admin Approval Required"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:362
+msgid "Redirected to Page URL (After Login)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:369
+msgid "Redirected to Page URL (After Registration)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:383
+msgid "Display Prices"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:385
+msgid "Default"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:386
+msgid "Include Tax"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:387
+msgid "Exclude Tax"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:415
+msgid "Role Setting"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:420
+#: includes/menu/class-wholesalex-settings.php:245
+msgid "Disable Coupons"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:427
+msgid "Enable Auto Role Migration"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:435
+msgid "Minimum Purchase Amount to Migrate to This Role"
+msgstr ""
+
+#: includes/menu/class-wholesalex-role.php:714
+#: includes/menu/class-wholesalex-role.php:728
+#: includes/menu/class-wholesalex-role.php:729
+msgid "Replace Add to Cart With Add to Quote"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:103
+#. translators: %1s - Plugin Name, %2s - Plugin Name,
+msgid ""
+"To Active \"Email Confirmation\" Please Enable %1$s Email Template from "
+"\"Dashboard > %2$s > Emails\"."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:191
+msgid "General Settings"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:195
+msgid "Plugin Status"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:197
+msgid "B2B (Wholesale Only)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:198
+msgid "B2C (Public Only)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:199
+msgid "B2B & B2C Hybrid (Wholesale and Public)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:203
+#. translators: %s - Plugin Name
+msgid "Choose which type of store you want to create & manage with %s."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:210
+msgid "Show Tiered Pricing Table"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:211
+msgid "Product Single Page"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:227
+msgid "Pricing / Discount Priority"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:228
+msgid ""
+"Set the priority to declare which will be applied if discounts are assigned "
+"in multiple ways."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:237
+msgid "Enable B2B Stock Management"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:238
+msgid "B2B Stock Management"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:246
+msgid "Hide coupon form of cart and checkout pages from wholesale users."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:256
+msgid "Hide All Products From B2C Users"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:257
+msgid "Click on the checkbox to hide all products from B2C users."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:258
+msgid "Once you click on this check box all products will be hidden from b2c users."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:267
+msgid "Hide All Products From Guest Users"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:268
+msgid "Click on the check box if you want to hide all products from guest users."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:269
+msgid ""
+"Once you click on this check box all products will be hidden from guest "
+"users."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:278
+msgid "Display Prices in the Shop"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:280
+#: includes/menu/class-wholesalex-settings.php:296
+msgid "Use WooCommerce default"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:281
+#: includes/menu/class-wholesalex-settings.php:297
+msgid "Including Tax"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:282
+#: includes/menu/class-wholesalex-settings.php:298
+msgid "Excluding Tax"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:284
+msgid "Display prices including or excluding taxes on the shop page."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:294
+msgid "Display Prices in Cart and Checkout Page"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:300
+msgid "Display prices including or excluding taxes on the cart and checkout pages."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:310
+msgid "Override Regular Price Suffix"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:312
+msgid "Display desired text after regular prices on shop and single products pages."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:320
+#. translators: %s - Plugin Name
+msgid "%s Price Suffix"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:322
+msgid ""
+"Display desired text after wholesale prices on shop and single products "
+"pages."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:329
+msgid "Make The Store Private"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:330
+msgid "Click the check box to make the store private from logged out users"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:338
+msgid "Force Redirect URL"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:345
+msgid "Enter an url where you want to force redirect logged out users."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:352
+msgid "Whitelist URL (For Private Store)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:359
+msgid "Enter Comma Separated URLs to make these whitelist on private store"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:366
+msgid "Allow Hidden Product to Checkout"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:367
+msgid "Click the check box if you want to allow hidden product to checkout"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:376
+msgid "Registration & Login"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:380
+msgid "User Login Option"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:382
+msgid "Manual Login After Registration"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:383
+msgid "Auto Login After Registration"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:385
+msgid ""
+"Auto login after registration will work only if the user status option is "
+"set to “Auto Approve”. "
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:393
+msgid "User Status Option"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:395
+msgid "Email Confirmation to Active Account"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:396
+msgid "Auto Approval Account"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:397
+msgid "Admin Approval Required to Activate Account"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:405
+msgid "Separate My Account Page for B2B Users"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:407
+msgid ""
+"Select your desired page if you want to separate the My Account Page for "
+"B2B users."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:415
+msgid "Show Registration Form For Logged In User"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:416
+msgid ""
+"Click on the check box if you want to show registration form form logged in "
+"users."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:424
+msgid "Redirect Page URL (After Registration)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:425
+#: includes/menu/class-wholesalex-settings.php:434
+msgid "http://"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:433
+msgid "Redirect Page URL (After Login)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:442
+msgid "Registration Successful Message"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:450
+msgid "Registration Form Message For Logged In User"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:457
+msgid "Price"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:461
+msgid "Wholesale Price Text for Product Pages"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:463
+msgid ""
+"The text is shown immediately before the wholesale price in product single "
+"page. The default text is “Wholesale Price:”"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:468
+msgid "Wholesale Price Text for Product Listing Page"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:470
+msgid ""
+"The text is shown immediately before the wholesale price in product listing "
+"page. The default text is “Wholesale Price:”."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:475
+msgid "Wholesale Price On Product Listing Page"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:477
+msgid "Pricing Range"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:478
+msgid "Minimum Pricing"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:479
+msgid "Maximum Pricing"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:481
+msgid "Pricing Range, Minimum Pricing, Maximum Pricing"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:482
+msgid ""
+"Select whether you want to display wholesale price range, minimum price, or "
+"maximize price on the product listing page."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:487
+msgid "Hide Retail Price"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:488
+msgid "Click on the check box if you want to hide the retail price."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:489
+msgid ""
+"Once you click on this check box the regular price will be hidden if the "
+"wholesale price is present."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:494
+msgid "Hide Wholesale Price"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:495
+msgid "Hide wholesale price for all users."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:496
+msgid ""
+"This option will hide wholesale price in price-column of product-listing "
+"page."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:501
+msgid "Show Login to view price on Product Listing Page"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:502
+#: includes/menu/class-wholesalex-settings.php:509
+msgid "Login to view price"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:503
+msgid "Display logging option on the product listing page to view price."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:508
+msgid "Show Login to view price on Single Product Page"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:510
+msgid "Display logging option on single product pages to view price."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:515
+#: includes/menu/class-wholesalex-settings.php:516
+msgid "Login to View Price Login URL"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:517
+msgid "Will redirect to this link for login, when login to view prices enabled."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:523
+msgid "Language and Text"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:527
+msgid "Login Text"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:530
+msgid "Login"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:534
+msgid "Registration Text"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:537
+msgid "Registration"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:541
+msgid "Logout To See this form Text"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:544
+msgid "Logout To See this form"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:548
+msgid "Login To See Price Text"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:555
+msgid "Price is hidden Text"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:558
+msgid "Price is hidden!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:563
+#: includes/menu/class-wholesalex-settings.php:567
+#. translators: %s - Plugin Name
+msgid "%s Free Shipping Text"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:572
+msgid "Design"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:589
+msgid "Tier Position in Product Single Page"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:590
+msgid "Above Cart Button"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:591
+msgid "Display tiered pricing above the “Add to Cart” button."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:596
+msgid "Primary Color"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:602
+msgid "Primary Button Color"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:608
+msgid "Primary Hover Color"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:614
+msgid "Text Color"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:626
+msgid "Active Tier"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:637
+msgid "Site Key"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:638
+msgid "Site Key..."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:640
+msgid ""
+"For Gettings reCAPTCHA Site Key, You have to create an project on google "
+"recaptcha. "
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:645
+msgid "Secret Key"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:646
+msgid "Secret Key..."
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:648
+msgid ""
+"For Gettings reCAPTCHA secret Key, You have to create an project on google "
+"recaptcha. "
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:653
+msgid "Minimum Allowed Score"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:655
+msgid "0.5"
+msgstr ""
+
+#: includes/menu/class-wholesalex-settings.php:656
+msgid "Set minimum allowed score for reCAPTCHA. Default Range: 0.0 - 1.00"
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:73
+#: includes/menu/class-wholesalex-setup-wizard.php:74
+msgid "Setup Wizard"
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:91
+#: includes/options/Addons.php:250
+msgid ""
+"Let buyers order products in bulk using the bulk order form. Customers can "
+"access them from their account page or create their own purchase list."
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:106
+#: includes/options/Addons.php:265
+msgid "Subaccounts "
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:107
+#: includes/options/Addons.php:266
+msgid ""
+"Registered users in the B2B store can create sub accounts - allowing sub "
+"account holders to purchase products and maintain the account on behalf of "
+"the main account holder."
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:121
+#: includes/options/Addons.php:280
+msgid "Request a Quote"
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:122
+#: includes/options/Addons.php:281
+msgid ""
+"Send and receive custom quotes from buyers directly. Users can send custom "
+"quote queries from the cart page. Admins can negotiate on the quote "
+"directly."
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:137
+#: includes/options/Addons.php:296
+msgid "Conversations"
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:138
+#: includes/options/Addons.php:297
+msgid ""
+"Enable “conversations” with the customer and admin. Users can directly send "
+"queries from their account page to the admin directly."
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:152
+#: includes/options/Addons.php:311
+msgid ""
+"Use the %s wallet for storewide payments. Purchase products by adding funds "
+"to your Wallet from the Wholesale store."
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:166
+#: includes/options/Addons.php:325
+msgid "White Label"
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:167
+#: includes/options/Addons.php:326
+msgid ""
+"Brand you Wholesale store using the white label addon. Set the custom "
+"plugin name, change the email, registration, roles, and more."
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:182
+#: includes/options/Addons.php:341
+msgid ""
+"Protect your website from suspicious login attempts with an added security "
+"layer using Google reCAPTCHA v3 for extended safety measures.  "
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:194
+#: includes/options/Addons.php:353
+msgid "WholesaleX for Dokan"
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:195
+#: includes/options/Addons.php:354
+msgid ""
+"Turn your store into a B2B multi-vendor marketplace. Create and manage "
+"wholesale discounts with dynamic rules and user roles. Also manage "
+"conversations with WholesaleX for Dokan."
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:208
+#: includes/options/Addons.php:367
+msgid "This addon require Dokan plugin"
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:212
+#: includes/options/Addons.php:371
+msgid "WholesaleX for WCFM"
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:213
+#: includes/options/Addons.php:372
+msgid ""
+"Let vendors set wholesale prices and discounts to your wholesale store with "
+"WCFM for Dokan integration. Manage conversations with users as well in your "
+"B2B multi-vendor store."
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:226
+#: includes/options/Addons.php:385
+msgid "This addon require WCFM – Frontend Manager plugin"
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:441
+msgid "Plugin Activate Successfully"
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:498
+#: includes/menu/class-wholesalex-setup-wizard.php:508
+msgid "WooCommerce Activation Failed!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:501
+msgid "WooCommerce Installation Failed!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:519
+#: includes/menu/class-wholesalex-setup-wizard.php:529
+msgid "ProductX Activation Failed!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-setup-wizard.php:522
+msgid "ProductX Installation Failed!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:39
+#: includes/menu/class-wholesalex-support.php:40
+#: includes/menu/class-wholesalex-support.php:128
+msgid "Quick Support"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:104
+msgid "New Support Ticket has been Created."
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:104
+msgid "New Support Ticket is not Created Due to Some Issues."
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:129
+msgid "Technical Support"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:130
+msgid "Free Support (WordPress ORG)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:131
+msgid "Presale Questions"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:132
+msgid "License Activation Issues"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:133
+msgid "Bug Report"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:134
+msgid "Compatibility Issues"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:136
+msgid "Getting Started with WholesaleX"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:137
+msgid "Dynamic Pricing & Discount Rules"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:138
+msgid "Wholesale User Roles"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:139
+msgid "Registration Form Builder"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:140
+msgid "WholeasaleX Addons"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:141
+msgid "How to Create a Private Store"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:142
+msgid "Please Select Support type."
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:143
+msgid "Please Fill all the Input Field.."
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:144
+msgid "Having Difficulties? We are here to help"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:145
+msgid "Let us know how we can help you."
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:146
+msgid "(Pro)"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:147
+msgid "Create a Ticket"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:148
+msgid "Select Support Type from above"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:150
+#: includes/menu/class-wholesalex-users.php:124
+#: includes/menu/class-wholesalex-users.php:335
+msgid "Email"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:153
+msgid "You can Contact in Support via our "
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:154
+msgid "Contact Form"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:155
+msgid "Submit Ticket"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:157
+msgid "Join Community"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:158
+msgid "Useful Guides"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:159
+msgid "Check out the in depth documentation"
+msgstr ""
+
+#: includes/menu/class-wholesalex-support.php:160
+msgid "Explore Docs"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:38
+#: includes/menu/class-wholesalex-users.php:39
+#: includes/menu/class-wholesalex-users.php:98
+msgid "Users"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:91
+msgid "Select Status"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:102
+msgid "Pending"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:103
+msgid "Delete"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:104
+msgid "Selected Users"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:105
+msgid "Apply"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:108
+msgid "Columns"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:109
+msgid "No Users Found!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:110
+msgid "Showing"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:111
+msgid "Pages"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:112
+msgid "of"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:113
+msgid "Please Select a valid csv file to process import!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:114
+msgid "Please Wait to complete existing import request!"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:116
+msgid "Import Sucessful"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:117
+msgid "Users Updated"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:118
+msgid "Users Inserted"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:119
+msgid "Users Skipped"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:120
+msgid "Download"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:121
+msgid "Log For More Info"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:122
+msgid "Close"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:123
+#: includes/menu/class-wholesalex-users.php:333
+msgid "Username"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:127
+msgid "Update Existing Users"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:128
+msgid ""
+"Selecting \"Update Existing Users\" will only update existing users. No new "
+"user will be added."
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:129
+msgid "Find Existing Users By:"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:130
+msgid "Option to detect user from the uploaded CSV's email or username field."
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:131
+msgid "Process Per Iteration"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:132
+msgid ""
+"Low process per iteration (PPI) increases the import's accuracy and success "
+"rate. A (PPI) higher than your server's maximum execution time might fail "
+"the import."
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:134
+msgid "Import Users"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:135
+msgid "Select Fields to Export"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:136
+msgid ""
+"Warning: If any of the fields contain a comma (,), it might break the CSV "
+"file. Ensure the selected column value contains no comma(,)."
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:137
+msgid "Download CSV"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:138
+msgid "Export Users"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:150
+msgid "--Select Role--"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:253
+msgid "Successfully Deleted"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:255
+msgid "Role Successfully Changed."
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:317
+msgid "Change Role to "
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:320
+msgid "Roles"
+msgstr ""
+
+#: includes/menu/class-wholesalex-users.php:334
+msgid "Full Name"
+msgstr ""
+
+#: includes/options/Addons.php:41 includes/options/Addons.php:44
+msgid "Addons"
+msgstr ""
+
+#: includes/options/Addons.php:170
+msgid "Successfully Updated!"
+msgstr ""
+
+#: includes/options/Addons.php:174
+msgid "Update Failed!"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://getwholesalex.com/?utm_source=plugin_details&utm_medium=home_page&"
+"utm_campaign=wholesalex-DB"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The WholesaleX plugin is a brand-new, highly-promising WooCommerce B2B "
+"solution to set up a conversion-focused B2B store for selling wholesale "
+"products. It offers everything required to operate an effective B2B store."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wholesale Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://getwholesalex.com/"
+msgstr ""
+
+#: templates/emails/admin-new-wholesalex-user.php:12
+msgctxt "New WholesaleX User Email (Admin)"
+msgid "You have a new customer registration."
+msgstr ""
+
+#: templates/emails/admin-new-wholesalex-user.php:14
+msgctxt "New WholesaleX User Email (Admin)"
+msgid "Username: "
+msgstr ""
+
+#: templates/emails/admin-new-wholesalex-user.php:16
+msgctxt "New WholesaleX User Email (Admin)"
+msgid "Email: "
+msgstr ""
+
+#: templates/emails/admin-wholesalex-registration-pending.php:13
+msgctxt "WholesaleX Registration Pending(Admin) Email"
+msgid "Hi,"
+msgstr ""
+
+#: templates/emails/admin-wholesalex-registration-pending.php:15
+#. translators: %1$s: User Profile URL, %2$s: Username
+msgctxt "WholesaleX Registration Pending(Admin) Email"
+msgid ""
+"A new user, <a href=\"%s\">%s</a>, has registered and is awaiting your "
+"approval to access our platform."
+msgstr ""
+
+#: templates/emails/admin-wholesalex-registration-pending.php:16
+msgctxt "WholesaleX Registration Pending(Admin) Email"
+msgid ""
+"Please review the registration details and take the necessary steps to "
+"grant access to the new User."
+msgstr ""
+
+#: templates/emails/new-wholesalex-user-auto-approved.php:11
+#. translators: %s: Customer username
+msgctxt "WholesaleX New User Auto Approved Email (Customer)"
+msgid "Hi %s,"
+msgstr ""
+
+#: templates/emails/new-wholesalex-user-auto-approved.php:12
+msgctxt "WholesaleX New User Auto Approved Email (Customer)"
+msgid "Your account has been successfully created."
+msgstr ""
+
+#: templates/emails/new-wholesalex-user-auto-approved.php:14
+#. translators: %1$s: Username, %2$s: My account link
+msgctxt "WholesaleX New User Auto Approved Email (Customer)"
+msgid ""
+"Your username is %1$s. You can access your account area to view orders, "
+"change your password, and more at: %2$s"
+msgstr ""
+
+#: templates/emails/wholesalex-email-verification.php:11
+#. translators: %s: Customer username
+msgctxt "WholesaleX Email Verification Email (Customer)"
+msgid "Hi %s,"
+msgstr ""
+
+#: templates/emails/wholesalex-email-verification.php:12
+msgctxt "WholesaleX Email Verification Email (Customer)"
+msgid ""
+"To complete your registration, please click the link below to confirm your "
+"email address."
+msgstr ""
+
+#: templates/emails/wholesalex-email-verification.php:14
+msgctxt "WholesaleX Email Verification Email (Customer)"
+msgid ""
+"By confirming your Email, you will gain full access to your account and "
+"enjoy all our platform's benefits"
+msgstr ""
+
+#: templates/emails/wholesalex-email-verified.php:11
+#. translators: %s: Customer username
+msgctxt "WholesaleX Email Verified Email (Customer)"
+msgid "Hi %s,"
+msgstr ""
+
+#: templates/emails/wholesalex-email-verified.php:12
+msgctxt "WholesaleX Email Verified Email (Customer)"
+msgid ""
+"We are excited to inform you that your Email has been successfully "
+"verified, and your account has been approved"
+msgstr ""
+
+#: templates/emails/wholesalex-email-verified.php:14
+#. translators: %1$s: Username, %2$s: My account link
+msgctxt "WholesaleX Email Verified Email (Customer)"
+msgid ""
+"Your username is %1$s. You can access your account area to view orders, "
+"change your password, and more at: %2$s"
+msgstr ""
+
+#: templates/emails/wholesalex-registration-approve.php:11
+#. translators: %s: Customer username
+msgctxt "WholesaleX Registration Approved Email (Customer)"
+msgid "Hi %s,"
+msgstr ""
+
+#: templates/emails/wholesalex-registration-approve.php:12
+msgctxt "WholesaleX Registration Approved Email (Customer)"
+msgid ""
+"Congratulations! We are thrilled to inform you that your registration "
+"request has been successfully reviewed and approved."
+msgstr ""
+
+#: templates/emails/wholesalex-registration-approve.php:13
+msgctxt "WholesaleX Registration Approved Email (Customer)"
+msgid ""
+"You can log in using your provided credentials and start exploring all the "
+"exciting features and benefits available to you."
+msgstr ""
+
+#: templates/emails/wholesalex-registration-decline.php:12
+#. translators: %s: Customer username
+msgctxt "WholesaleX Registration Decline Email (Customer)"
+msgid "Hi %s,"
+msgstr ""
+
+#: templates/emails/wholesalex-registration-decline.php:14
+#. translators: %s: Site Name
+msgctxt "WholesaleX Registration Decline Email (Customer)"
+msgid ""
+"Thank you for the registration request on %s. Unfortunately, your "
+"registration request has been declined."
+msgstr ""
+
+#: templates/emails/wholesalex-registration-pending.php:11
+#. translators: %s: Customer username
+msgctxt "WholesaleX Registration Pending (Customer)"
+msgid "Hi %s,"
+msgstr ""
+
+#: templates/emails/wholesalex-registration-pending.php:12
+msgctxt "WholesaleX Registration Pending (Customer)"
+msgid ""
+"We have received your registration request. Our team will review your "
+"information, and you will receive another email once your Request has been "
+"approved/rejected."
+msgstr ""
